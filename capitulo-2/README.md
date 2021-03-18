@@ -1,10 +1,6 @@
 # Códigos do Capítulo 2
 
----
-
 O primeiro capítulo do livro [Elementos de Computação Matemática com SageMath](https://sagectu.com.br/) apresenta orintações sobre o software e seu uso. A codifição sendo iniciada no capítulo 2: __SageMath: Primeiros Passos__.
-
----
 
 __Obs.:__ A execução dos códigos foi feita com sage 8.6, usando o debian 10.
 
