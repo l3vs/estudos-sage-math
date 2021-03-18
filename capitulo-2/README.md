@@ -22,4 +22,11 @@ __Obs.:__ A execução dos códigos foi feita com sage 8.6, usando o debian 10.
     `_`      | Chamada do resultado anterior | `_^2`
     `?`      | Descrição do método | `det?`
 
-* `02-aproximacoes-numericas.ipynb`:
+* `02-aproximacoes-numericas.ipynb`: com exemplos de constantes em Sage, aproximações numéricas e declaração de variáveis.
+
+    Método   | Descrição          | Exemplo de Uso
+    ---------|--------------------|---------------
+    `n()`    | Aproximação numérica| `n(pi, digits=10)`
+    `reset`  | Apaga as variáveis da memória| `reset()` 
+
+* `03-variaveis-simbolicas.ipynb`:
