@@ -10,4 +10,4 @@ Nesse repositório estão os códigos criados a partir dos estudos do livro [Ele
 
 A seguir a lista de diretórios de cada um dos Capítulos:
 
-1. [Capítulo 2]()
+1. [Capítulo 2](https://github.com/l3vs/estudos-sage-math/tree/main/capitulo-2)
